@@ -28,7 +28,7 @@ I wanted it to feel imaginative and engineered without turning into glossy fanta
 | Asset | Purpose |
 | --- | --- |
 | [`assets/pakkbyte-avatar-v3.png`](./assets/pakkbyte-avatar-v3.png) | GitHub avatar and primary emblem |
-| [`assets/pakkbyte-banner-v3.png`](./assets/pakkbyte-banner-v3.png) | Profile README banner |
+| [`assets/pakkbyte-banner-v5.png`](./assets/pakkbyte-banner-v5.png) | Profile README banner |
 | [`assets/pakkbyte-social-preview-v3.jpg`](./assets/pakkbyte-social-preview-v3.jpg) | Repository social preview |
 
 ## Usage principles
@@ -39,6 +39,7 @@ I wanted it to feel imaginative and engineered without turning into glossy fanta
 - Prefer deep negative space, flat shapes, and restrained linework.
 - Allow slight irregularity in line weight and spacing.
 - Use the full emblem once per surface; do not repeat it in the banner.
+- Keep the banner wordmark immediately readable; the network map supports it rather than competing with it.
 - Do not replace the horse anatomy with dragon, reptile, or generic cyber-creature features.
 - Avoid armor, glossy metal, cinematic lighting, sci-fi cities, and decorative micro-detail.
 - Do not add text inside the primary emblem.
@@ -47,11 +48,7 @@ I wanted it to feel imaginative and engineered without turning into glossy fanta
 
 The work should feel considered, not generated.
 
-- Specific beats impressive.
-- Quiet space beats decorative filler.
-- Asymmetry and small imperfections are welcome when they feel intentional.
-- Real projects, screenshots, decisions, and results carry more weight than branding.
-- Never invent work, metrics, clients, expertise, or progress to fill an empty section.
+Use real projects, screenshots, decisions, and results when they exist. Leave space empty instead of filling it with decorative copy. Never invent work, metrics, clients, expertise, or progress.
 
 ## Voice
 
@@ -72,10 +69,11 @@ PakkByte should sound like me: direct about business, curious about what’s pos
 Get to the point. Time is money, so lead with the opportunity, the decision, or the next move.
 
 - Be clear about what I can build, what I need, and what happens next.
-- Prefer action and useful progress over endless polishing.
+- Move quickly, but don’t ship careless work.
 - Treat borders and time zones as logistics, not limits on a good opportunity.
 - Skip filler, buzzwords, and forced sales language.
 - Be confident without pretending to know everything.
+- Use normal sentences. Don’t turn every point into a slogan.
 
 ### Global network
 
@@ -97,12 +95,12 @@ This is a remarkable moment to be building. We’re standing on the shoulders of
 - Respect the people and ideas that made today’s tools possible.
 - Keep the wonder; lose the hype.
 
-### Lines that feel like PakkByte
+### Writing pattern
 
-- **Time is money. Get to the point.**
-- **Done beats perfect when perfection stops progress.**
-- **A good opportunity isn’t limited by borders or time zones.**
-- **We’re standing on the shoulders of giants—and building what comes next.**
-- **Every day opens possibilities that didn’t exist the day before.**
+Say what the thing is, why it matters, and what happens next.
 
-Use these as anchors, not slogans to repeat everywhere. Business writing should stay sharp. Bigger, more visionary language belongs in introductions, project stories, and reflections where it has room to breathe.
+- Cut generic AI copy, filler, and repeated ideas before publishing.
+- Don’t force toughness, cleverness, or inspiration into every paragraph.
+- Vary the rhythm naturally instead of stacking short catchphrases.
+- When five words will do, don’t use fifteen.
+- Save the bigger, more visionary language for project stories and reflections where it has room to breathe.

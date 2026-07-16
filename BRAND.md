@@ -29,7 +29,7 @@ I wanted it to feel imaginative and engineered without turning into glossy fanta
 | --- | --- |
 | [`assets/pakkbyte-avatar-v3.png`](./assets/pakkbyte-avatar-v3.png) | GitHub avatar and primary emblem |
 | [`assets/pakkbyte-banner-v3.png`](./assets/pakkbyte-banner-v3.png) | Profile README banner |
-| [`assets/pakkbyte-social-preview-v3.png`](./assets/pakkbyte-social-preview-v3.png) | Repository social preview |
+| [`assets/pakkbyte-social-preview-v3.jpg`](./assets/pakkbyte-social-preview-v3.jpg) | Repository social preview |
 
 ## Usage principles
 
@@ -76,6 +76,16 @@ Get to the point. Time is money, so lead with the opportunity, the decision, or 
 - Treat borders and time zones as logistics, not limits on a good opportunity.
 - Skip filler, buzzwords, and forced sales language.
 - Be confident without pretending to know everything.
+
+### Global network
+
+Good work and strong relationships aren’t limited by geography.
+
+- Treat the world as one connected network of people, ideas, and opportunities.
+- Be open to serious collaborators, clients, and builders wherever they are.
+- Respect time zones, cultures, local context, and the person on the other side of the conversation.
+- Build long-term relationships, not a list of contacts.
+- Let the quality of the opportunity matter more than the distance between people.
 
 ### Vision voice
 

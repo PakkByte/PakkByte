@@ -35,7 +35,7 @@ The first project will earn its place here with a demo, screenshots, setup instr
 
 ## Let’s talk
 
-I’m open to serious ideas, client work, and collaboration. If there’s a real problem to solve, [tell me what it needs to do](https://github.com/PakkByte/PakkByte/issues/new?template=opportunity.yml).
+I’m open to serious ideas, client work, and collaboration from anywhere. If there’s a real problem to solve, [tell me what it needs to do](https://github.com/PakkByte/PakkByte/issues/new?template=opportunity.yml).
 
 Prefer to start in public? [Join the discussion](https://github.com/PakkByte/PakkByte/discussions/2).
 

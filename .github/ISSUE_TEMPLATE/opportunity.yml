@@ -1,0 +1,61 @@
+name: Opportunity or collaboration
+description: Start a public conversation about a project, partnership, or ambitious idea.
+title: "[Opportunity] "
+labels:
+  - opportunity
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out. Share enough context to start the conversation, but remember that GitHub issues are public.
+
+  - type: dropdown
+    id: opportunity_type
+    attributes:
+      label: What kind of opportunity is this?
+      options:
+        - Project or prototype
+        - Client work
+        - Partnership or collaboration
+        - Advisory or architecture
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What are you trying to create?
+      description: Describe the idea, problem, or opportunity in plain language.
+      placeholder: We want to...
+    validations:
+      required: true
+
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What would a useful outcome look like?
+      placeholder: Success would mean...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Where is the idea today?
+      options:
+        - Early idea
+        - Defined concept
+        - Prototype exists
+        - Existing system needs improvement
+        - Ready to build
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: public_notice
+    attributes:
+      label: Public-information check
+      options:
+        - label: I have not included passwords, credentials, confidential material, or sensitive commercial information.
+          required: true

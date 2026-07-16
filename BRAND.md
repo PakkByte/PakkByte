@@ -2,17 +2,17 @@
 
 ## The Triarch
 
-The PakkByte emblem is a three-headed mechanical Pegasus built around one shared center.
+The PakkByte emblem is a three-headed mechanical Pegasus.
 
-- **Architect** gives the work structure and direction.
-- **Creator** turns possibility into something tangible.
-- **Guardian** protects quality, reliability, and intent.
-- **One body** represents coordinated agents operating as a system.
-- **The ultraviolet jewel** represents the shared objective that keeps every agent aligned.
-- **The folded wings** represent ambition held under control: ready to move, but never ornamental.
-- **The layered armor** represents small components—bytes—assembled into dependable architecture.
+- **Architect** figures out the structure and direction.
+- **Creator** turns the idea into something real.
+- **Guardian** checks the work and protects the original intent.
+- **One body** means different roles moving in the same direction.
+- **The ultraviolet jewel** is the goal they’re all working toward.
+- **The folded wings** show ambition that’s ready to move.
+- **The layered armor** is made of smaller parts—bytes—working together.
 
-The identity combines myth, machinery, and architecture: imaginative enough to be memorable, structured enough to feel trustworthy, and open enough to invite collaboration.
+I wanted it to feel imaginative, engineered, and a little mysterious without becoming another generic AI logo.
 
 ## Palette
 
@@ -40,3 +40,14 @@ The identity combines myth, machinery, and architecture: imaginative enough to b
 - Prefer deep negative space and restrained detail around the emblem.
 - Do not replace the horse anatomy with dragon, reptile, or generic cyber-creature features.
 - Do not add text inside the primary emblem.
+
+## Voice
+
+PakkByte should sound like a person building in public: curious, direct, practical, and open to good ideas.
+
+- Write in first person.
+- Use plain English and contractions.
+- Keep sentences short when they can be short.
+- Explain technical ideas without trying to sound impressive.
+- Share unfinished work honestly instead of presenting everything like a finished product.
+- Avoid corporate release-note language, inflated claims, and speaking as “we” when it’s really “I.”

@@ -1,5 +1,5 @@
 name: Opportunity or collaboration
-description: Start a public conversation about a project, partnership, or ambitious idea.
+description: Tell me about a project, collaboration, or idea you’re thinking about.
 title: "[Opportunity] "
 labels:
   - opportunity
@@ -7,17 +7,17 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reaching out. Share enough context to start the conversation, but remember that GitHub issues are public.
+        Thanks for reaching out. Tell me what you’re thinking—it doesn’t need to be polished. Just remember that GitHub issues are public.
 
   - type: dropdown
     id: opportunity_type
     attributes:
-      label: What kind of opportunity is this?
+      label: What are you reaching out about?
       options:
-        - Project or prototype
-        - Client work
-        - Partnership or collaboration
-        - Advisory or architecture
+        - Building or shaping an idea
+        - A client project
+        - A partnership or collaboration
+        - Architecture or advice
         - Something else
     validations:
       required: true
@@ -25,24 +25,24 @@ body:
   - type: textarea
     id: idea
     attributes:
-      label: What are you trying to create?
-      description: Describe the idea, problem, or opportunity in plain language.
-      placeholder: We want to...
+      label: What’s the idea?
+      description: A rough version is completely fine.
+      placeholder: I’m thinking about...
     validations:
       required: true
 
   - type: textarea
     id: outcome
     attributes:
-      label: What would a useful outcome look like?
-      placeholder: Success would mean...
+      label: What would make this worth doing?
+      placeholder: A good result would be...
     validations:
       required: true
 
   - type: dropdown
     id: stage
     attributes:
-      label: Where is the idea today?
+      label: How far along is it?
       options:
         - Early idea
         - Defined concept
@@ -55,7 +55,7 @@ body:
   - type: checkboxes
     id: public_notice
     attributes:
-      label: Public-information check
+      label: One quick check
       options:
-        - label: I have not included passwords, credentials, confidential material, or sensitive commercial information.
+        - label: I haven’t included passwords, private information, or anything confidential.
           required: true

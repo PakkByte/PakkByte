@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Agentic AI Architecture</strong><br />
-  Architecting useful, reliable agentic AI—and turning ambitious ideas into practical systems.
+  I’m exploring how agentic AI can turn good ideas into useful tools, workflows, and products.
 </p>
 
 <p align="center">
@@ -21,15 +21,15 @@
   <tr>
     <td width="33%" valign="top">
       <h3>Agentic architecture</h3>
-      Coordinated agents built around shared objectives, clear boundaries, and reliable handoffs.
+      Figuring out how agents can plan, hand work off, and stay on track together.
     </td>
     <td width="33%" valign="top">
       <h3>Practical automation</h3>
-      Useful workflows that move ideas out of the prototype stage and into repeatable action.
+      Turning repetitive or messy work into tools I’d actually want to use.
     </td>
     <td width="33%" valign="top">
-      <h3>Public field notes</h3>
-      Clear demos and case studies drawn from experiments as they become ready to share.
+      <h3>Notes from the work</h3>
+      Sharing what works, what breaks, and what I learn while I’m building.
     </td>
   </tr>
 </table>
@@ -47,22 +47,22 @@
 
 ### [PakkByte / PakkByte](https://github.com/PakkByte/PakkByte)
 
-The public home for what I’m creating, how I work, and where new collaborations begin. Public builds will be added here as they are ready—without dressing unfinished experiments up as shipped products.
+This is the home base for my GitHub profile and the PakkByte identity. I’ll add projects as I finish them and have something worth showing.
 
 ## The Triarch
 
-The PakkByte emblem represents three coordinated roles—**Architect, Creator, and Guardian**—aligned around one shared objective. One system, multiple intelligences, useful outcomes.
+The three heads stand for **Architect, Creator, and Guardian**. Different jobs, one direction. That’s the idea behind the kind of agentic systems I want to build.
 
 [Explore the visual identity and its meaning →](./BRAND.md)
 
 ## Work with me
 
-I’m open to:
+I’m interested in:
 
-- Agentic AI architecture and prototypes
-- Practical AI automation and workflow design
-- Collaborations, client work, and ambitious ideas
+- Shaping and building agentic AI ideas
+- Practical automation and better workflows
+- Collaborations, client projects, and ambitious ideas
 
 **Have an idea or opportunity? [Start a conversation and let’s make something happen.](https://github.com/PakkByte/PakkByte/issues/new?template=opportunity.yml)**
 
-> GitHub issues are public. Please keep private credentials, confidential information, and sensitive commercial details out of the initial message.
+> GitHub issues are public, so please don’t include passwords, private information, or anything confidential.

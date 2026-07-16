@@ -5,21 +5,38 @@
 <h1 align="center">PakkByte</h1>
 
 <p align="center">
-  I build practical AI agents and automations.
+  <strong>Agentic AI Architecture</strong><br />
+  I design agents that plan, coordinate, and get real work done.
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/PakkByte/PakkByte/issues/new?template=opportunity.yml">Have a project or business opportunity? Let’s talk.</a></strong>
+  <a href="https://github.com/PakkByte/PakkByte/issues/new?template=opportunity.yml"><img src="https://img.shields.io/badge/START_A_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Start a project" /></a>
+  <a href="https://github.com/PakkByte/PakkByte/discussions"><img src="https://img.shields.io/badge/JOIN_THE_DISCUSSION-24252A?style=for-the-badge&logo=github&logoColor=D5D2C8" alt="Join the discussion" /></a>
+  <a href="./BRAND.md"><img src="https://img.shields.io/badge/THE_TRIARCH-B88A43?style=for-the-badge&logoColor=07080C" alt="Explore the Triarch" /></a>
 </p>
 
 ## Focus
 
-AI agents, automation, and practical tools.
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7B2CFF?style=flat-square)
+![Multi-Agent Architecture](https://img.shields.io/badge/Multi--Agent_Architecture-B88A43?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-24252A?style=flat-square)
+![Reliable Workflows](https://img.shields.io/badge/Reliable_Workflows-6C6D73?style=flat-square)
+![Global Collaboration](https://img.shields.io/badge/Global_Collaboration-07080C?style=flat-square)
+
+## What I build
+
+AI agents and automations that can coordinate work, use tools, and produce a clear result.
+
+## How I approach it
+
+- **Architect:** Set the structure, tools, and handoffs.
+- **Creator:** Turn the plan into working software.
+- **Guardian:** Test the result, catch mistakes, and keep the original goal intact.
 
 ## Business
 
-For client work, partnerships, or serious opportunities from anywhere, [start here](https://github.com/PakkByte/PakkByte/issues/new?template=opportunity.yml).
+Have a project, partnership, or process worth improving? Send the problem, the outcome you want, and the constraints. If the work makes sense, we’ll handle the time zone.
 
-Prefer to start in public? [Join the discussion](https://github.com/PakkByte/PakkByte/discussions/2).
+Prefer to start in public? [Join the discussion](https://github.com/PakkByte/PakkByte/discussions).
 
 > GitHub issues and discussions are public. Don’t include passwords, private information, or anything confidential.

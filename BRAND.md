@@ -64,6 +64,12 @@ PakkByte should sound like me: direct about business, curious about what’s pos
 - Avoid corporate release-note language, inflated claims, and speaking as “we” when it’s really “I.”
 - Avoid generic words such as “innovative,” “cutting-edge,” “revolutionary,” and “solutions” unless the sentence proves the claim.
 
+### Profile copy
+
+- **Display name:** PakkByte · Agentic AI Architecture
+- **Bio:** Agentic AI architecture. I design agents that plan, coordinate, and get real work done. Projects and partnerships worldwide.
+- **Status:** 🛠️ Making AI do useful things
+
 ### Business voice
 
 Get to the point. Time is money, so lead with the opportunity, the decision, or the next move.

@@ -4,6 +4,8 @@
 
 We clarify the goal, build around real constraints, and verify the outcome.
 
+Good work is collaborative. You bring the problem, context, and judgment. I help turn that into a clear plan, a working system, and evidence that it does what it should.
+
 ## 1. Clarify the goal
 
 We start with the problem, not the technology.
@@ -48,6 +50,15 @@ We test the important paths, look for failure cases, review the output, and comp
 ## 6. Improve what earns its place
 
 Once the useful core is proven, we decide what should be expanded, simplified, automated further, or left alone. The goal is a system that keeps providing value—not complexity for its own sake.
+
+## What you can expect
+
+- A clearly defined outcome
+- A plan shaped by the real constraints
+- Working examples instead of unsupported claims
+- Visible decisions and honest progress
+- Verification against the original goal
+- Clear next steps for improving, operating, or handing off the work
 
 ## Start with the problem
 

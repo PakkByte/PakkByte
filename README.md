@@ -11,21 +11,15 @@
 
 <p align="center">
   <a href="https://github.com/PakkByte/PakkByte/issues/new?template=opportunity.yml"><img src="https://img.shields.io/badge/START_A_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Start a project" /></a>
-  <a href="https://github.com/PakkByte/PakkByte/discussions"><img src="https://img.shields.io/badge/JOIN_THE_DISCUSSION-24252A?style=for-the-badge&logo=github&logoColor=D5D2C8" alt="Join the discussion" /></a>
   <a href="./APPROACH.md"><img src="https://img.shields.io/badge/HOW_PAKKBYTE_WORKS-B88A43?style=for-the-badge&logoColor=07080C" alt="How PakkByte works" /></a>
+  <a href="https://github.com/PakkByte/PakkByte/discussions"><img src="https://img.shields.io/badge/JOIN_THE_DISCUSSION-24252A?style=for-the-badge&logo=github&logoColor=D5D2C8" alt="Join the discussion" /></a>
 </p>
-
-## Focus
-
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7B2CFF?style=flat-square)
-![Multi-Agent Architecture](https://img.shields.io/badge/Multi--Agent_Architecture-B88A43?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-24252A?style=flat-square)
-![Reliable Workflows](https://img.shields.io/badge/Reliable_Workflows-6C6D73?style=flat-square)
-![Global Collaboration](https://img.shields.io/badge/Global_Collaboration-07080C?style=flat-square)
 
 ## What I build
 
-AI agents and automations that can coordinate work, use tools, and produce a clear result.
+- **Agent workflows** that plan, use tools, and hand work off clearly.
+- **Automations and integrations** that connect useful AI capabilities to existing systems.
+- **Reliability layers** such as approvals, guardrails, recovery paths, and evidence of what happened.
 
 ## From ambitious idea to reliable result
 
@@ -33,10 +27,15 @@ We clarify the goal, build around real constraints, and verify the outcome.
 
 [How PakkByte works →](./APPROACH.md)
 
-## Business
+## A good place to start
 
-Have a project, partnership, or process worth improving? Send the problem, the outcome you want, and the constraints. If the work makes sense, we’ll handle the time zone.
+Bring a project, partnership, or process worth improving. A useful starting point includes:
 
-Prefer to start in public? [Join the discussion](https://github.com/PakkByte/PakkByte/discussions).
+- The problem or slow workflow
+- Who it affects
+- The outcome you want
+- The tools, limits, or risks that matter
+
+[Start a project](https://github.com/PakkByte/PakkByte/issues/new?template=opportunity.yml) or [join the public discussion](https://github.com/PakkByte/PakkByte/discussions). It doesn’t need to be polished.
 
 > GitHub issues and discussions are public. Don’t include passwords, private information, or anything confidential.

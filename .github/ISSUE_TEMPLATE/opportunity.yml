@@ -39,6 +39,23 @@ body:
     validations:
       required: true
 
+  - type: textarea
+    id: audience
+    attributes:
+      label: Who would this help?
+      placeholder: The people, team, customers, or community affected are...
+    validations:
+      required: true
+
+  - type: textarea
+    id: constraints
+    attributes:
+      label: What constraints matter?
+      description: Include relevant tools, privacy needs, budget, timing, approvals, or technical limits. If none are known yet, say that.
+      placeholder: The work needs to account for...
+    validations:
+      required: true
+
   - type: dropdown
     id: stage
     attributes:

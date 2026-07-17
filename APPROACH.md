@@ -59,6 +59,8 @@ Once the useful core is proven, we decide what should be expanded, simplified, a
 - Visible decisions and honest progress
 - Verification against the original goal
 - Clear next steps for improving, operating, or handing off the work
+- Around-the-clock support when the project requires it, with flexible global collaboration and clear updates that keep the work moving across time zones
+- Dependable follow-through after the build—from operating and improving the system to handoff or extended monitoring when needed
 
 ## Start with the problem
 

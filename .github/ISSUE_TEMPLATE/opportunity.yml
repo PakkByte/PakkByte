@@ -1,5 +1,5 @@
-name: Opportunity or collaboration
-description: Tell me about a project, collaboration, or idea you’re thinking about.
+name: Project or collaboration
+description: Tell me what you’re working on and where you need help.
 title: "[Opportunity] "
 labels:
   - opportunity
@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reaching out. Tell me what you’re thinking—it doesn’t need to be polished. Just remember that GitHub issues are public.
+        Thanks for reaching out. Start with the rough version—we can make it clearer from there. Just remember that GitHub issues are public.
 
   - type: dropdown
     id: opportunity_type
@@ -34,7 +34,7 @@ body:
   - type: textarea
     id: outcome
     attributes:
-      label: What would make this worth doing?
+      label: What would a good result look like?
       placeholder: A good result would be...
     validations:
       required: true

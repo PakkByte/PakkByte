@@ -17,25 +17,20 @@
 
 ## What I build
 
-- **Agent workflows:** I design agents that can plan, use tools, and hand work off without losing the thread.
-- **Automations and integrations:** I connect AI to the tools and systems people already rely on.
-- **Reliability:** I add approvals, guardrails, recovery paths, and a clear record of what happened.
-
-## From ambitious idea to reliable result
-
-Together, we get clear on the goal, work within the real constraints, and test whether the result actually does what it should.
+- Soultions
+  
 
 [How PakkByte works →](./APPROACH.md)
 
 ## A good place to start
 
-Start with the problem, even if the idea is still rough. Tell me:
+Start with the problem, even if the idea is still rough. 
 
 - What isn’t working or takes too much time
 - Who deals with it
 - What a better outcome would look like
 - Which tools, limits, or risks I should know about
+  
 
-[Start a project](https://github.com/PakkByte/PakkByte/issues/new?template=opportunity.yml) or [join the public discussion](https://github.com/PakkByte/PakkByte/discussions). If it looks like a good fit, we’ll figure out the next step together.
-
+[join the public discussion](https://github.com/PakkByte/PakkByte/discussions). 
 > GitHub issues and discussions are public. Don’t include passwords, private information, or anything confidential.

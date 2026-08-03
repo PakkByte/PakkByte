@@ -17,7 +17,7 @@
 
 ## What I build
 
-- Soultions
+- Solutions
   
 
 [How PakkByte works →](./APPROACH.md)

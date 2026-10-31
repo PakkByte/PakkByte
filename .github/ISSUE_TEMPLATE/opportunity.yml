@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reaching out. Start with the rough version—we can make it clearer from there. Just remember that GitHub issues are public.
+        Thanks for reaching out. Start with the rough version—we can make it clearer from there. Just remember that GitHub issues are public. See the [repository conventions](../../docs/operating-system/repository-conventions.md) and [where things belong](../../docs/operating-system/where-does-this-belong.md) before sharing supporting material.
 
   - type: dropdown
     id: opportunity_type
